@@ -31,7 +31,7 @@ This demonstration outlines the implementation of on-premises Active Directory w
 <img src="https://i.imgur.com/aqRvHFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Azure, create a new Virtual Machine, title it after a Domain Controller (in this case, DC) and select Windows 10 Datacenter. 
+In Azure, create a new Virtual Machine, title it after a Domain Controller (in this case, DC) and select Windows Datacenter. 
 </p>
 <br />
 
