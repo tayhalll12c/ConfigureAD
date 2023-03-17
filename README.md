@@ -39,7 +39,7 @@ In Azure, create a new Virtual Machine, title it after a Domain Controller (in t
 <img src="https://i.imgur.com/0NZnuNR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-At least 2 CPUs are recommended
+At least 2 CPUs are recommended for size. Set a username and password, and deploy the VM. 
 </p>
 <br />
 
