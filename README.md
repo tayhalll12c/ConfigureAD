@@ -66,3 +66,11 @@ Change IP configurations to "static" and save.
 Create a "client" virtual machine in the same resource group. This VM will also have 2 CPUs.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/u9DpTHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here, we are checking topology to ensure that both VMs are truly linked.    
+</p>
+<br />
