@@ -74,3 +74,11 @@ Create a "client" virtual machine in the same resource group. This VM will also 
 Here, we are checking topology to ensure that both VMs are truly linked.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/dWBFgoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Use Remote Desktop Connection after copying the public IP of DC-1, and enter credentials to run it.     
+</p>
+<br />
