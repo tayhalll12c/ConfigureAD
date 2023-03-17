@@ -20,7 +20,7 @@ This demonstration outlines the implementation of on-premises Active Directory w
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create Datacenter and Client (Windows 10 Virtual Machine)
+- Create Datacenter 
 - Run Datacenter VM
 - Install Active Directory Domain Services
 - Promote Datacenter VM to Domain Controller 
