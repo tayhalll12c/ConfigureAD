@@ -58,3 +58,11 @@ Navigate to IP configurations for DC-1, and click the underlined box in the cent
 Change IP configurations to "static" and save.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/PF4lgqw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a "client" virtual machine in the same resource group. This VM will also have 2 CPUs.    
+</p>
+<br />
