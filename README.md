@@ -50,3 +50,11 @@ At least 2 CPUs are recommended for size. Set a username and password, and deplo
 Navigate to IP configurations for DC-1, and click the underlined box in the center of the screen.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qr9QimN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Change IP configurations to "static" and save.  
+</p>
+<br />
