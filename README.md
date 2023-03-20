@@ -250,3 +250,11 @@ Type in the domain admin username and password, click 'OK', log out of Client-1,
 In 'Active Directory Users and Computers' of DC-1, navigate to the 'Computers' folder, and move Client-1 to the "_CLIENTS" organizational unit.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/bWtYLu2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In Client-1, go to settings, Remote Desktop, and click 'Select users that can remotely access this PC'.     
+</p>
+<br />
