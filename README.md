@@ -95,6 +95,6 @@ Let's attempt to ping DC-1 from Client-1 using its private IP. As you can see, t
 <img src="https://i.imgur.com/3PgHUgF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We will resolve this by navigating to advanced settings in Firewall configurations.      
+We will resolve this by navigating to advanced settings in the Firewall configurations of DC-1.      
 </p>
 <br />
