@@ -23,7 +23,10 @@ This demonstration outlines the implementation of on-premises Active Directory w
 - Create Datacenter and Client (Windows 10 Virtual Machine)
 - Run Datacenter VM
 - Install Active Directory Domain Services
-- Promote Datacenter VM to Domain Controller 
+- Promote Datacenter VM to Domain Controller through the creation of a domain
+- Create an admin user 
+-Link Client to Datacenter's domain 
+-Create employee login credentials that can be managed in Datacenter 
 
 <h2>Deployment and Configuration Steps</h2>
 
