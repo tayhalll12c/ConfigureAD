@@ -154,3 +154,11 @@ Type in a root domain name, and then click 'Next'.
 Type in a password, and then click 'Next'. Then, keep clicking 'Next' until 'Installation' is reached. Allow the installation and restart of the DC-1 virtual machine.            
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zpuHDEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In remote desktop, sign back in to DC-1, and add the new domain name in front of the 
+</p>
+<br />
