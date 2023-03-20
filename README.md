@@ -98,3 +98,11 @@ Let's attempt to ping DC-1 from Client-1 using its private IP. As you can see, t
 We will resolve this by navigating to advanced settings in the Firewall configurations of DC-1.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4NWrrAs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to inbound rules, sort by protocol (click the word 'protocol') and right-click the two follwing ICMPv4 rules to enable them.      
+</p>
+<br />
