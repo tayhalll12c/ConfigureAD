@@ -122,3 +122,11 @@ Client-1 is now successfully able to ping DC-1.
 In the sever manager of DC-1, click 'Add roles and features'.        
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4XdLOGS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Keep clicking 'Next' until 'Server Roles' is reached. Then, select 'Active Directory Domain Services', and keep clicking 'Next' until the installation screen appears. Wait for installation to finish.         
+</p>
+<br />
