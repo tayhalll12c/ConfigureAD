@@ -274,3 +274,11 @@ Type in "domain users" and add.
 In DC-1, right-click Powershell ISE, and run it as an administrator.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/vASlRFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click the blank paper icon to create a new script. In this case, a script has been pasted that will automatically add random employee login credentials into the "_EMPLOYEES" organizational unit. CLick the green play button to run the script.        
+</p>
+<br />
