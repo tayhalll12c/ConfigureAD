@@ -204,6 +204,14 @@ Log out of DC-1, then log back in with the new admin username.
 <br />
 
 <p>
+<img src="https://i.imgur.com/k9igG12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In Azure, change the DNS of Client-1 to the private IP address of DC-1, (10.0.0.4 in this case) and then save.      
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/jF5ZynI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
