@@ -242,3 +242,11 @@ Click 'Change...', type in the domain name of DC-1, and then click 'OK'.
 Type in the domain admin username and password, click 'OK', log out of Client-1, then log back in with the domain admin username and password     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/PQEwTUU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In 'Active Directory Users and Computers' of DC-1, navigate to the 'Computers' folder, and move Client-1 to the "_CLIENTS" organizational unit.    
+</p>
+<br />
