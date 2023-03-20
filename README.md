@@ -234,3 +234,11 @@ After the restart is complete, log back in to Client-1. Then, in settings, navig
 Click 'Change...', type in the domain name of DC-1, and then click 'OK'.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/y7H3joW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in the domain admin username and password, click 'OK', log out of Client-1, then log back in with the domain admin username and password     
+</p>
+<br />
