@@ -106,3 +106,11 @@ We will resolve this by navigating to advanced settings in the Firewall configur
 Navigate to inbound rules, sort by protocol (click the word 'protocol') and right-click the two follwing ICMPv4 rules to enable them.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/2EaIfbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Client-1 is now successfully able to ping DC-1.       
+</p>
+<br />
