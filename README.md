@@ -114,3 +114,11 @@ Navigate to inbound rules, sort by protocol (click the word 'protocol') and righ
 Client-1 is now successfully able to ping DC-1.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/azWU570.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the sever manager of DC-1, click 'Add roles and features'.        
+</p>
+<br />
