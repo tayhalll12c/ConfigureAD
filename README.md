@@ -146,3 +146,11 @@ Click the flag, and then click 'Promote this server to a domain controller'.
 Type in a root domain name, and then click 'Next'.           
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qTqecAG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in a password, and then click 'Next'.           
+</p>
+<br />
