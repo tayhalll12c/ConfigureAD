@@ -138,3 +138,11 @@ Keep clicking 'Next' until 'Server Roles' is reached. Then, select 'Active Direc
 Click the flag, and then click 'Promote this server to a domain controller'.          
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/bCCINFc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in a root domain name, and then click 'Next'.           
+</p>
+<br />
