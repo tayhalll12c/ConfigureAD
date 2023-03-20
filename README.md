@@ -202,3 +202,11 @@ Navigate to the properties of the user, then to the 'Member Of' tab, then click 
 Log out of DC-1, then log back in with the new admin username.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/jF5ZynI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the settings of Client-1, navigate to 'Rename this PC (advanced)'.     
+</p>
+<br />
