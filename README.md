@@ -162,3 +162,11 @@ Type in a password, and then click 'Next'. Then, keep clicking 'Next' until 'Ins
 In remote desktop, sign back in to DC-1, and add the new domain name in front of the username that was used to create the virtual machine in Azure.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/a9usS0d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After logging back in to DC-1, navigate to 'Active Directory Users and Computers' in the start menu folder titled 'Windows Administrative Tools'. Then, under your domain name, create three new organizational units: "_CLIENTS", "_EMPLOYEES", and "_ADMINS".  
+</p>
+<br />
