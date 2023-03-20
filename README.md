@@ -170,3 +170,11 @@ In remote desktop, sign back in to DC-1, and add the new domain name in front of
 After logging back in to DC-1, navigate to 'Active Directory Users and Computers' in the start menu folder titled 'Windows Administrative Tools'. Then, under your domain name, create three new organizational units: "_CLIENTS", "_EMPLOYEES", and "_ADMINS".  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/BQR9HFe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Inside the "_ADMINS" unit, create a new user. Since this user is intended to be an admin, the login username will reflect that.   
+</p>
+<br />
