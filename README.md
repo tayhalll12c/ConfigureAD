@@ -215,6 +215,6 @@ In Azure, change the DNS of Client-1 to the private IP address of DC-1, (10.0.0.
 <img src="https://i.imgur.com/jF5ZynI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the settings of Client-1, navigate to 'Rename this PC (advanced)'.     
+After the restart is complete, log back in to CLient-1. Then, in settings, navigate to 'Rename this PC (advanced)'.     
 </p>
 <br />
