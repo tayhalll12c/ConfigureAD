@@ -226,3 +226,11 @@ Restart Client-1 in Azure.
 After the restart is complete, log back in to Client-1. Then, in settings, navigate to 'Rename this PC (advanced)'.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/i0kDDDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Change...', type in the domain name of DC-1, and then click 'OK'.     
+</p>
+<br />
