@@ -178,3 +178,11 @@ After logging back in to DC-1, navigate to 'Active Directory Users and Computers
 Inside the "_ADMINS" unit, create a new user. Since this user is intended to be an admin, the login username will reflect that.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/JXfIr1C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set a password. In this case, the password has been set to remain static. Then, finish creating the user.    
+</p>
+<br />
