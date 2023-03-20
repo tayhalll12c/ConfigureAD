@@ -191,6 +191,6 @@ Set a password. In this case, the password has been set to remain static. Then, 
 <img src="https://i.imgur.com/92huwvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to the properties of the user, then to the 'Member Of' tab, then click 'Add...'. Type in 'Domain Admins', click 'Check Names', then click 'OK'.     
+Navigate to the properties of the user, then to the 'Member Of' tab, then click 'Add...'. Type in 'Domain Admins' into the box, click 'Check Names', then click 'OK'.     
 </p>
 <br />
