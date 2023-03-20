@@ -90,3 +90,11 @@ Use Remote Desktop Connection after copying the public IP of DC-1, and enter cre
 Let's attempt to ping DC-1 from Client-1 using its private IP. As you can see, the attempt failed.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3PgHUgF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We will resolve this by navigating to advanced settings in Firewall configurations.      
+</p>
+<br />
