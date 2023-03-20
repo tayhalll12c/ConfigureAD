@@ -212,6 +212,14 @@ In Azure, change the DNS of Client-1 to the private IP address of DC-1, (10.0.0.
 <br />
 
 <p>
+<img src="https://i.imgur.com/MZPsxgx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Restart Client-1 in Azure.      
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/jF5ZynI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
