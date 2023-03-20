@@ -258,3 +258,11 @@ In 'Active Directory Users and Computers' of DC-1, navigate to the 'Computers' f
 In Client-1, go to settings, Remote Desktop, and click 'Select users that can remotely access this PC'.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/kXVb8RS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in "domain users" and add.      
+</p>
+<br />
