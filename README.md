@@ -156,9 +156,9 @@ Type in a password, and then click 'Next'. Then, keep clicking 'Next' until 'Ins
 <br />
 
 <p>
-<img src="https://i.imgur.com/zpuHDEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zpuHDEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In remote desktop, sign back in to DC-1, and add the new domain name in front of the 
+In remote desktop, sign back in to DC-1, and add the new domain name in front of the username that was used to create the virtual machine in Azure.  
 </p>
 <br />
